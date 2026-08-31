@@ -35,9 +35,9 @@ My first custom keyboard I build.
 It is a [carbonfet-fork-dactyl-manuform](https://github.com/carbonfet/dactyl-manuform)
 
 In the future, I will name my keyboards after something that describes them very well.
-Like the keycap theme - as this is very impressive and unique.
+Like the keycap theme - as this is very expressive and unique.
 
-But this is just my "First custom Keyboard".
+I named it: "First custom Keyboard".
 
 #### Part list
 
