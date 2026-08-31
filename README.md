@@ -3,7 +3,7 @@
 This repository aims to sum up all my keyboard config.
 In particular, I use a custom keyboard (see [here](https://github.com/carbonfet/dactyl-manuform))
 
-The layout is also custom, as I won't stick to the default layout (I don't even know what that would be on this keyboard, lol — if there even is one at all).
+The layout is also custom, as I won't stick to the default layout (I don't even know what that would be on this keyboard, if there even is one at all).
 So here you will find everything about the keyboard and the layout.
 From building the keyboard to the layout itself, everything is documented here.
 
