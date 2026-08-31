@@ -36,6 +36,8 @@ It is a [carbonfet-fork-dactyl-manuform](https://github.com/carbonfet/dactyl-man
 
 In the future, I will name my keyboards after something that describes them very well.
 Like the keycap theme - as this is very expressive and unique.
+I will also name themes a certain way. The big difference is that not all themes have been build for a certain keyboard.
+A keyboard can have multiple themes. Or multiple keyboard can use the same theme. 
 
 I named it: "First custom Keyboard".
 
