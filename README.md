@@ -7,6 +7,10 @@ The layout is also custom, as I won't stick to the default layout (I don't even 
 So here you will find everything about the keyboard and the layout.
 From building the keyboard to the layout itself, everything is documented here.
 
+---
+
+In the future, I will name my keyboards after something that describes them very well.
+
 ## Building the keyboard
 
 First, you need a base for the keyboard.
@@ -28,14 +32,11 @@ Stuff you always need lying around:
 
 - some copper cable, just use any cable you can find as it won't matter which one you use.
 - soldering iron I use: [amazon](https://www.amazon.de/gp/product/B0GGC5HTT4/ref=ox_sc_saved_title_3?smid=A270SLZCPX6K5L&psc=1)
-
+- 
 ### My first keyboard
 
 My first custom keyboard I build.
 It is a [carbonfet-fork-dactyl-manuform](https://github.com/carbonfet/dactyl-manuform)
-
-In the future, I will name my keyboards after something that describes them very well.
-Like the keycap theme - as this is very expressive and unique.
 
 I named it: "First custom Keyboard".
 
