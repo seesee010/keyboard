@@ -1,11 +1,7 @@
 # keyboard
 
-This repository aims to sum up all my keyboard config.
-In particular, I use a custom keyboard (see [here](https://github.com/carbonfet/dactyl-manuform))
-
-The layout is also custom, as I won't stick to the default layout (I don't even know what that would be on this keyboard, if there even is one at all).
-So here you will find everything about the keyboard and the layout.
-From building the keyboard to the layout itself, everything is documented here.
+This repository aims to sum up all my keyboards, keyboard configs, and so on...
+So here you will find everything from "how to build the keyboard" to the layout to some themes.
 
 ---
 
@@ -36,7 +32,9 @@ Stuff you always need lying around:
 ### My first keyboard
 
 My first custom keyboard I build.
+
 It is a [carbonfet-fork-dactyl-manuform](https://github.com/carbonfet/dactyl-manuform)
+The layout is also custom, as I won't stick to the default layout (I don't even know what that would be on this keyboard, if there even is one at all).
 
 I named it: "First custom Keyboard".
 
