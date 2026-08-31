@@ -24,7 +24,22 @@ I have decided to use the following parts:
 > [!NOTE]
 > All parts listed here may be EU-only, so be careful.
 
+Stuff you always need lying around:
+
+- some copper cable, just use any cable you can find as it won't matter which one you use.
+- soldering iron I use: [amazon](https://www.amazon.de/gp/product/B0GGC5HTT4/ref=ox_sc_saved_title_3?smid=A270SLZCPX6K5L&psc=1)
+
 ### My first keyboard
+
+My first custom keyboard I build.
+It is a [carbonfet-fork-dactyl-manuform](https://github.com/carbonfet/dactyl-manuform)
+
+In the future, I will name my keyboards after something that describes them very well.
+Like the keycap theme - as this is very impressive and unique.
+
+But this is just my "First custom Keyboard".
+
+#### Part list
 
 - the base keyboard [github](https://github.com/carbonfet/dactyl-manuform), printed by myself, but I guess you can also just buy it. For example: [etsy](https://www.etsy.com/de-en/listing/1435804169/dactyl-manuform-mechanical-keyboard-case?lang_mismatch=1)
 - RP2040 based boards, I use this one from [amazon](https://www.amazon.de/gp/product/B0H4L5WFRN/ref=ox_sc_act_title_2?smid=A2WSSX5YFMIMA4&psc=1), but any RP2040 based board should work. Remember to buy at least 2 boards, one for each half of the keyboard.
