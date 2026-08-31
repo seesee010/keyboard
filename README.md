@@ -26,6 +26,7 @@ I have decided to use the following parts:
 
 ### My first keyboard
 
+- the base keyboard [github](https://github.com/carbonfet/dactyl-manuform), printed by myself, but I guess you can also just buy it. For example: [etsy]()
 - RP2040 based boards, I use this one from [amazon](https://www.amazon.de/gp/product/B0H4L5WFRN/ref=ox_sc_act_title_2?smid=A2WSSX5YFMIMA4&psc=1), but any RP2040 based board should work. Remember to buy at least 2 boards, one for each half of the keyboard.
 - TRRS to TRRS cable, to connect both halves of the keyboard together, I use this one from [amazon](https://www.amazon.de/gp/product/B07FFW8YZR/ref=ox_sc_act_title_5?smid=A36GEU10IX5HPU&psc=1)
 - switches, I use: [amazon](https://www.amazon.de/gp/product/B0D8KB4RPZ/ref=ox_sc_act_title_6?smid=AJJW1W45HAUSR&th=1), which are thocky, MX compatible, linear, and cheaper than other switches in the thocky category.
