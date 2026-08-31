@@ -28,7 +28,7 @@ Stuff you always need lying around:
 
 - some copper cable, just use any cable you can find as it won't matter which one you use.
 - soldering iron I use: [amazon](https://www.amazon.de/gp/product/B0GGC5HTT4/ref=ox_sc_saved_title_3?smid=A270SLZCPX6K5L&psc=1)
-- 
+
 ### My first keyboard
 
 My first custom keyboard I build.
