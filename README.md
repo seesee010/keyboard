@@ -50,6 +50,6 @@ I named it: "First custom Keyboard".
 And lastly, some keycaps — this is where the biggest potential for customization lies.
 I use the following keycaps:
 
-- some white/gray base keycaps with a wide range of sizes, so I can use as many keys as possible. For my ~82% keyboard layout (that's the standard [carbonfet dactyl fork](https://github.com/carbonfet/dactyl-manuform) layout): [amazon](https://www.amazon.de/gp/product/B0BLMJQRSG/ref=ox_sc_act_title_4?smid=A8KICS1PHF7ZO&th=1), XDA keycaps
+- some white/gray base keycaps with a wide range of sizes, so I can use as many keys as possible. For my ~82% (74 keys) keyboard layout (that's the standard [carbonfet dactyl fork](https://github.com/carbonfet/dactyl-manuform) layout): [amazon](https://www.amazon.de/gp/product/B0BLMJQRSG/ref=ox_sc_act_title_4?smid=A8KICS1PHF7ZO&th=1), XDA keycaps
 - for some extra keys, as I know that 1.5u are not enough from the base set: [amazon](https://www.amazon.de/gp/product/B0DXDWY463/ref=ox_sc_act_title_5?smid=A111ZR18PX26NO&th=1), black XDA keycaps
 - some extra highlights, 1u, XDA keycaps: [amazon](amazon.de/gp/product/B0HFZFYL69/ref=ewc_pr_img_2?smid=A35JIT05N82USV&psc=1)
