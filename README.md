@@ -46,6 +46,7 @@ I named it: "First Custom Keyboard".
 - Switches — I use: [amazon](https://www.amazon.de/gp/product/B0D8KB4RPZ/ref=ox_sc_act_title_6?smid=AJJW1W45HAUSR&th=1), which are thocky, MX-compatible, linear, and cheaper than other switches in the thocky category.
 - A USB-C to USB-A cable — USB-C to USB-C would also work fine: [amazon](https://www.amazon.de/gp/product/B01GGKYKQM/ref=ewc_pr_img_1?smid=A3JWKAKR8XB7XF&th=1)
 - TRRS breakouts — I use: [amazon](https://www.amazon.de/gp/product/B088QXGQTH/ref=ox_sc_act_title_8?smid=A1XDN6LSMACAXM&psc=1)
+- Diodes, if your PCB doesn't already have them: [amazon](https://www.amazon.de/dp/B0D7PRHDK7?ref=ppx_yo2ov_dt_b_fed_asin_title), 150pc, 0.2A, 75V.
 
 You also need to decide how you want to handle the PCB for each switch — whether you want one PCB per switch or one big PCB for the whole keyboard.
 I decided to use the [keycapsss-amoeba-single-switch-pcb](https://keycapsss.com/Amoeba-Single-Switch-PCB-1U-2U/KC10055-1U).As far as I remember, they're EU-based. So you might want to look for something else depending on where you're located.
