@@ -52,7 +52,10 @@ You also need to decide how you want to handle the PCB for each switch — wheth
 I decided to use the [keycapsss-amoeba-single-switch-pcb](https://keycapsss.com/Amoeba-Single-Switch-PCB-1U-2U/KC10055-1U).As far as I remember, they're EU-based. So you might want to look for something else depending on where you're located.
 Anyway, the one I'm using are the **Amoeba Single Switch PCB 1U**. (you can also check out: [my fork](https://github.com/seesee010/PCB_for_HandwiredKeyboards) or the original [PCB-for-handwireKeyboards](https://github.com/PitBarber/PCB_for_HandwiredKeyboards) on github.)
 
-And lastly, some keycaps — this is where the biggest potential for customization lies.
+[!CAUTION]
+Be careful when choosing a diode and PCB combination, since you need to make sure the PCB supports THT diodes if you want to hand-solder them. That's why I didn't use some of the PCB-for-Handwire-Keyboard repositories on GitHub.
+
+And lastly, some keycaps — this is where the fastest potential for customization lies.
 I use the following keycaps:
 
 - Some white/gray base keycaps in a wide range of sizes, so I can cover as many keys as possible. For my ~71.2% (74 keys) keyboard layout (that's the standard [carbonfet dactyl fork](https://github.com/carbonfet/dactyl-manuform) layout): [amazon](https://www.amazon.de/gp/product/B0BLMJQRSG/ref=ox_sc_act_title_4?smid=A8KICS1PHF7ZO&th=1), XDA keycaps
