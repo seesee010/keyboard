@@ -62,5 +62,8 @@ I use the following keycaps:
 - For some extra keys, since I know the 1.5u keycaps from the base set aren't enough: [amazon](https://www.amazon.de/gp/product/B0DXDWY463/ref=ox_sc_act_title_5?smid=A111ZR18PX26NO&th=1), black XDA keycaps
 - Some extra accent keycaps, 1u, XDA: [amazon](https://amazon.de/gp/product/B0HFZFYL69/ref=ewc_pr_img_2?smid=A35JIT05N82USV&psc=1)
 
-If you want to view this list more visually: [list](https://mywishlist.online/w/bmerie/the-custom-keyboard-first-custom-keyboard)
-> However this is only a collection and the part numbers are not correct!
+If you want to view this list more visually: 
+
+[link](http://ha.mr#💇🏾🦻🧑🏾‍🦱🧊🚟👩🏿‍❤️‍💋‍👩🏼👩🏽‍🫯‍👩🏻🤹‍♂️🇿🇦🧖🏼🇧🇩🇬🇱🕴🏿🐤🌰🙎🏿‍♂️🔨👯🏼😀🐅🤏🏾🧎🏼🤽🏿😯🥘✋🏼🎽📊)
+
+credit: @ha.mr for that url
