@@ -47,6 +47,10 @@ I named it: "First Custom Keyboard".
 - A USB-C to USB-A cable — USB-C to USB-C would also work fine: [amazon](https://www.amazon.de/gp/product/B01GGKYKQM/ref=ewc_pr_img_1?smid=A3JWKAKR8XB7XF&th=1)
 - TRRS breakouts — I use: [amazon](https://www.amazon.de/gp/product/B088QXGQTH/ref=ox_sc_act_title_8?smid=A1XDN6LSMACAXM&psc=1)
 
+You also need to decide how you want to handle the PCB for each switch — whether you want one PCB per switch or one big PCB for the whole keyboard.
+I decided to use the [keycapsss-amoeba-single-switch-pcb](https://keycapsss.com/Amoeba-Single-Switch-PCB-1U-2U/KC10055-1U).As far as I remember, they're EU-based. So you might want to look for something else depending on where you're located.
+Anyway, the one I'm using are the **Amoeba Single Switch PCB 1U**. (you can also check out: [my fork](https://github.com/seesee010/PCB_for_HandwiredKeyboards) or the original [PCB-for-handwireKeyboards](https://github.com/PitBarber/PCB_for_HandwiredKeyboards) on github.)
+
 And lastly, some keycaps — this is where the biggest potential for customization lies.
 I use the following keycaps:
 
